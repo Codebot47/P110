@@ -1,0 +1,1 @@
+src='https://teachablemachine.withgoogle.com/models/2MAGEzipF/'
